@@ -1,2 +1,2 @@
-# simple-calculate
+# simple-calculation
 a program in c
